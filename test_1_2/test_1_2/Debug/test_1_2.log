@@ -1,0 +1,5 @@
+﻿  2.循环语句while.c
+E:\MSVS\VS_code\test_1\test_1_2\test_1_2\2.循环语句while.c(135,7): warning C4047: “初始化”:“int *”与“int”的间接级别不同
+  3.循环语句do while for.c
+  正在生成代码...
+  test_1_2.vcxproj -> E:\MSVS\VS_code\test_1\test_1_2\Debug\test_1_2.exe
