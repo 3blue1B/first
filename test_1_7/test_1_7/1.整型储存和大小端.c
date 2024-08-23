@@ -244,9 +244,25 @@
 {
 	return 0;
 }*///release 版本不可调试
-
-
-
+//void my_strcoy(char* sou , char* des)
+//{
+//	while (*sou != '\0')
+//	{
+//		*des = *sou;
+//		des++;
+//		sou++;
+//	}
+//}
+//int main()
+//{
+//
+//	char a[10] = "abcdefg";
+//	char b[10] = { 0 };
+//	my_strcoy(a, b);
+//	printf("%s", b);
+//	return 0;
+//}
+// 输入一个正数组，实现一个函数 odd first and even last
 
 
 

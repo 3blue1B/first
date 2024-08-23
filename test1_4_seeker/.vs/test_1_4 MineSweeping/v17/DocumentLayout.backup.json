@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MSVS\\VS_code\\test_1\\test1_4_seeker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0068DB-EEE6-487A-A13A-3F466DACE5E3}|test1_4_seeker\\test1_4_seeker.vcxproj|E:\\MSVS\\VS_code\\test_1\\test1_4_seeker\\test1_4_seeker\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC0068DB-EEE6-487A-A13A-3F466DACE5E3}|test1_4_seeker\\test1_4_seeker.vcxproj|solutionrelative:test1_4_seeker\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0068DB-EEE6-487A-A13A-3F466DACE5E3}|test1_4_seeker\\test1_4_seeker.vcxproj|E:\\MSVS\\VS_code\\test_1\\test1_4_seeker\\test1_4_seeker\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC0068DB-EEE6-487A-A13A-3F466DACE5E3}|test1_4_seeker\\test1_4_seeker.vcxproj|solutionrelative:test1_4_seeker\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0068DB-EEE6-487A-A13A-3F466DACE5E3}|test1_4_seeker\\test1_4_seeker.vcxproj|E:\\MSVS\\VS_code\\test_1\\test1_4_seeker\\test1_4_seeker\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC0068DB-EEE6-487A-A13A-3F466DACE5E3}|test1_4_seeker\\test1_4_seeker.vcxproj|solutionrelative:test1_4_seeker\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.c",
+              "DocumentMoniker": "E:\\MSVS\\VS_code\\test_1\\test1_4_seeker\\test1_4_seeker\\game.c",
+              "RelativeDocumentMoniker": "test1_4_seeker\\game.c",
+              "ToolTip": "E:\\MSVS\\VS_code\\test_1\\test1_4_seeker\\test1_4_seeker\\game.c",
+              "RelativeToolTip": "test1_4_seeker\\game.c",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAAIcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-10T12:57:07.303Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.c",
+              "DocumentMoniker": "E:\\MSVS\\VS_code\\test_1\\test1_4_seeker\\test1_4_seeker\\test.c",
+              "RelativeDocumentMoniker": "test1_4_seeker\\test.c",
+              "ToolTip": "E:\\MSVS\\VS_code\\test_1\\test1_4_seeker\\test1_4_seeker\\test.c",
+              "RelativeToolTip": "test1_4_seeker\\test.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-10T13:18:34.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.h",
+              "DocumentMoniker": "E:\\MSVS\\VS_code\\test_1\\test1_4_seeker\\test1_4_seeker\\game.h",
+              "RelativeDocumentMoniker": "test1_4_seeker\\game.h",
+              "ToolTip": "E:\\MSVS\\VS_code\\test_1\\test1_4_seeker\\test1_4_seeker\\game.h",
+              "RelativeToolTip": "test1_4_seeker\\game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-10T12:57:19.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

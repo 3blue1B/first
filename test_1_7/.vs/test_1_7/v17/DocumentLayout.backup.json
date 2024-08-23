@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\MSVS\\VS_code\\test_1\\test_1_7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MSVS\\VS_code\\test_1\\test_1_7\\test_1_7\\1.\u6574\u578B\u50A8\u5B58\u548C\u5927\u5C0F\u7AEF.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test_1_7\\1.\u6574\u578B\u50A8\u5B58\u548C\u5927\u5C0F\u7AEF.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E8374CFF-BF49-4505-82F6-5E1B3B44788C}|test_1_7\\test_1_7.vcxproj|E:\\MSVS\\VS_code\\test_1\\test_1_7\\test_1_7\\2.practice||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E8374CFF-BF49-4505-82F6-5E1B3B44788C}|test_1_7\\test_1_7.vcxproj|solutionrelative:test_1_7\\2.practice||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "1.\u6574\u578B\u50A8\u5B58\u548C\u5927\u5C0F\u7AEF.c",
-              "DocumentMoniker": "E:\\MSVS\\VS_code\\test_1\\test_1_7\\test_1_7\\1.\u6574\u578B\u50A8\u5B58\u548C\u5927\u5C0F\u7AEF.c",
-              "RelativeDocumentMoniker": "test_1_7\\1.\u6574\u578B\u50A8\u5B58\u548C\u5927\u5C0F\u7AEF.c",
-              "ToolTip": "E:\\MSVS\\VS_code\\test_1\\test_1_7\\test_1_7\\1.\u6574\u578B\u50A8\u5B58\u548C\u5927\u5C0F\u7AEF.c",
-              "RelativeToolTip": "test_1_7\\1.\u6574\u578B\u50A8\u5B58\u548C\u5927\u5C0F\u7AEF.c",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-16T11:54:38.505Z"
+              "Title": "2.practice",
+              "DocumentMoniker": "E:\\MSVS\\VS_code\\test_1\\test_1_7\\test_1_7\\2.practice",
+              "RelativeDocumentMoniker": "test_1_7\\2.practice",
+              "ToolTip": "E:\\MSVS\\VS_code\\test_1\\test_1_7\\test_1_7\\2.practice",
+              "RelativeToolTip": "test_1_7\\2.practice",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-23T09:16:58.368Z",
+              "EditorCaption": ""
             }
           ]
         }
