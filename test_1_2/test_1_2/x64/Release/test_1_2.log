@@ -1,0 +1,10 @@
+﻿  1.分支语句.c
+  2.循环语句while.c
+  3.for dowhile goto.c
+E:\MSVS\VS_code\test_1\test_1_2\test_1_2\3.for dowhile goto.c(330,13): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+E:\MSVS\VS_code\test_1\test_1_2\test_1_2\3.for dowhile goto.c(330,13): warning C4024: “strcmp”: 形参和实参 1 的类型不同
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  test_1_2.vcxproj -> E:\MSVS\VS_code\test_1\test_1_2\x64\Release\test_1_2.exe

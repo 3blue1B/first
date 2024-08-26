@@ -1,0 +1,4 @@
+﻿  practice.c
+E:\MSVS\VS_code\test_1\test_1_6 boss\test_1_6 boss\practice.c(161,2): warning C4013: “gets”未定义；假设外部返回 int
+E:\MSVS\VS_code\test_1\test_1_6 boss\test_1_6 boss\practice.c(162,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  test_1_6 boss.vcxproj -> E:\MSVS\VS_code\test_1\test_1_6 boss\x64\Debug\test_1_6 boss.exe
